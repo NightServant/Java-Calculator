@@ -3,9 +3,9 @@
 
 ## Created by:
 - Cervantes, Elijah Gabe C. | NightServant
-- Go, Mark Andrei
-- Lagman, Ian Carlo
-- Pineda, Rosemarie
+- Go, Mark Andrei C.
+- Lagman, Ian Carlo M.
+- Pineda, Rosemarie G.
 
 ## Project Overview:
 - The objective of this project is to create a GUI calculator using Java programming language. This project aims to provide contextual understanding about the implementations of GUI in Java. In addtion, this project utilized Java Swing to create interactive components such as buttons, labels and text fields. Aside from the basic operations, this application can calculate percentages. 
