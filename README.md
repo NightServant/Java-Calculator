@@ -8,7 +8,10 @@
 - Pineda, Rosemarie G.
 
 ## Project Overview:
-- The objective of this project is to create a GUI calculator using Java programming language. This project aims to provide contextual understanding about the implementations of GUI in Java. In addtion, this project utilized Java Swing to create interactive components such as buttons, labels and text fields. Aside from the basic operations, this application can calculate percentages. 
+- The objective of this project is to create a GUI calculator using Java programming language. This project aims to provide contextual understanding about the implementations of GUI in Java. In addtion, this project utilized Java Swing to create interactive components such as buttons, labels and text fields. Aside from the basic operations, this application can calculate percentages.
+
+## Application Preview:
+![image](https://github.com/user-attachments/assets/db65183a-4b2a-4ced-88e7-1cc5a057f437)
 
 ## Technology Stack:
 - **Language**: Java
